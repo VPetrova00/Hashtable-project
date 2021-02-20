@@ -1,0 +1,3 @@
+C:/Users/Vesela/Documents/Second year - 2020-2021/sda practicum/project/hash table/cmake-build-debug/CMakeFiles/hash_table.dir
+C:/Users/Vesela/Documents/Second year - 2020-2021/sda practicum/project/hash table/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vesela/Documents/Second year - 2020-2021/sda practicum/project/hash table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
